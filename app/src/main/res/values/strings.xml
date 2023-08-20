@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HappyPlacesApp</string>
+    <string name="edit_text_hint_title">Title</string>
+    <string name="edit_text_hint_description">Description</string>
+    <string name="edit_text_hint_date">Date</string>
+    <string name="edit_text_hint_location">Location</string>
+    <string name="text_add_image">ADD IMAGE</string>
+    <string name="add_screen_save_button_text">SAVE</string>
+    <string name="add_screen_toolbar_title">Add New Place</string>
+    <string name="text_no_records">NO RECORDS YET</string>
+    <string name="image_content_description">image</string>
+    <string name="details_screen_toolbar_title">Happy Place Details</string>
+    <string name="delete_confirmation_text_1">Are you sure you want to</string>
+    <string name="YES">YES</string>
+    <string name="NO">NO</string>
+
+    <string name="API_KEY">AIzaSyAX7DJ2MSoJU34hAJwcj56k6LVln2XFEkc</string>
+    <string name="location_btn_text">VIEW ON MAP</string>
+    <string name="map_screen_toolbar_title">Map</string>
+    <string name="add_screen_current_location_button_text">SELECT CURRENT LOCATION</string>
+</resources>
